@@ -15,6 +15,7 @@
 		FAA59F2B1BD8BFFB000A840F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAA59F291BD8BFFB000A840F /* LaunchScreen.storyboard */; };
 		FAA59F361BD8BFFB000A840F /* SampleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA59F351BD8BFFB000A840F /* SampleAppTests.swift */; };
 		FAA59F411BD8BFFB000A840F /* SampleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA59F401BD8BFFB000A840F /* SampleAppUITests.swift */; };
+		FAA59FC91BDF7C09000A840F /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAA59FC81BDF7C09000A840F /* cat.jpeg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FAA59F3C1BD8BFFB000A840F /* SampleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA59F401BD8BFFB000A840F /* SampleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleAppUITests.swift; sourceTree = "<group>"; };
 		FAA59F421BD8BFFB000A840F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAA59FC81BDF7C09000A840F /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat.jpeg; path = ../../../Downloads/cat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FAA59F1D1BD8BFFA000A840F /* AppDelegate.swift */,
 				FAA59F1F1BD8BFFA000A840F /* ViewController.swift */,
 				FAA59F211BD8BFFB000A840F /* Main.storyboard */,
+				FAA59FC81BDF7C09000A840F /* cat.jpeg */,
 				FAA59F271BD8BFFB000A840F /* Assets.xcassets */,
 				FAA59F291BD8BFFB000A840F /* LaunchScreen.storyboard */,
 				FAA59F2C1BD8BFFB000A840F /* Info.plist */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAA59FC91BDF7C09000A840F /* cat.jpeg in Resources */,
 				FAA59F2B1BD8BFFB000A840F /* LaunchScreen.storyboard in Resources */,
 				FAA59F281BD8BFFB000A840F /* Assets.xcassets in Resources */,
 				FAA59F231BD8BFFB000A840F /* Main.storyboard in Resources */,
